@@ -1,3 +1,4 @@
-const test = () => console.log('utils test 1')
+const v = require('./package.json').version;
+const test = () => console.log('utils test ' + v)
 
 exports.default = test;
