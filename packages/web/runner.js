@@ -1,2 +1,2 @@
-const a = require('utils/index')
+const a = require('@apps/utils')
 console.log('🚀runner web', a.default());
