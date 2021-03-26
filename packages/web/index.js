@@ -1,3 +1,3 @@
 const test = () => console.log('Web test 1')
-// stuff in web
+// stuff another one
 exports.default = test;
