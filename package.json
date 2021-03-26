@@ -14,5 +14,8 @@
   "dependencies": {
     "lerna": "^3.22.1",
     "lerna-wizard": "^1.1.1"
+  },
+  "devDependencies": {
+    "conventional-changelog-cli": "^2.1.1"
   }
 }
